@@ -5,10 +5,10 @@ I further applied matched filtering techniques to identify known signals within 
 
 Data files may be downloaded from [DCC G2300818](https://github.com/gw-odw/odw/blob/main/Challenge/README.md#:~:text=be%20downloaded%20from-,DCC%20G2300818,-using%20these%20links) using these links:
 
-[challenge1.gwf](https://github.com/gw-odw/odw/blob/main/Challenge/README.md#:~:text=using%20these%20links%3A-,challenge1.gwf,-challenge2.gwf)
-[challenge2.gwf](https://github.com/gw-odw/odw/blob/main/Challenge/README.md#:~:text=challenge1.gwf-,challenge2.gwf,-challenge3.gwf)
-[challenge3.gwf](https://github.com/gw-odw/odw/blob/main/Challenge/README.md#:~:text=challenge2.gwf-,challenge3.gwf,-challenge3_2048hz.gwf%20%3C%2D%2D%20Downsampled)
-[challenge3_2048hz.gwf](https://github.com/gw-odw/odw/blob/main/Challenge/README.md#:~:text=challenge3_2048hz.gwf) <-- Downsampled version of Challenge 3 file
+- [challenge1.gwf](https://github.com/gw-odw/odw/blob/main/Challenge/README.md#:~:text=using%20these%20links%3A-,challenge1.gwf,-challenge2.gwf)
+- [challenge2.gwf](https://github.com/gw-odw/odw/blob/main/Challenge/README.md#:~:text=challenge1.gwf-,challenge2.gwf,-challenge3.gwf)
+- [challenge3.gwf](https://github.com/gw-odw/odw/blob/main/Challenge/README.md#:~:text=challenge2.gwf-,challenge3.gwf,-challenge3_2048hz.gwf%20%3C%2D%2D%20Downsampled)
+- [challenge3_2048hz.gwf](https://github.com/gw-odw/odw/blob/main/Challenge/README.md#:~:text=challenge3_2048hz.gwf) <-- Downsampled version of Challenge 3 file
 
 ## Challenge 1 (1 point)
 Identify a loud binary black hole signal in white, Gaussian noise.
